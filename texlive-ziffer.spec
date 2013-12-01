@@ -1,12 +1,12 @@
-# revision 15878
+# revision 32279
 # category Package
 # catalog-ctan /macros/latex/contrib/ziffer
-# catalog-date 2008-08-24 14:22:28 +0200
+# catalog-date 2012-05-09 18:20:59 +0200
 # catalog-license lppl
 # catalog-version 2.1
 Name:		texlive-ziffer
 Version:	2.1
-Release:	2
+Release:	3
 Summary:	Conversion of punctuation in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ziffer
@@ -48,16 +48,3 @@ switched on and off.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.1-2
-+ Revision: 757784
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.1-1
-+ Revision: 719975
-- texlive-ziffer
-- texlive-ziffer
-- texlive-ziffer
-
