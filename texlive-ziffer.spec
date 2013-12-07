@@ -6,7 +6,7 @@
 # catalog-version 2.1
 Name:		texlive-ziffer
 Version:	2.1
-Release:	3
+Release:	4
 Summary:	Conversion of punctuation in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ziffer
