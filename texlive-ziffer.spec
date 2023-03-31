@@ -1,6 +1,6 @@
 Name:		texlive-ziffer
 Version:	32279
-Release:	1
+Release:	2
 Summary:	Conversion of punctuation in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ziffer
