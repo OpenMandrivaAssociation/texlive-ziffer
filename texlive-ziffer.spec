@@ -3,7 +3,7 @@ Version:	32279
 Release:	2
 Summary:	Conversion of punctuation in maths mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ziffer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ziffer
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ziffer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ziffer.doc.r%{version}.tar.xz
